@@ -1,6 +1,7 @@
 {
   "name": "ex3-dig4639c-aimee-neuhart",
   "version": "1.0.0",
+  "type": "module",
   "description": "Funny Quote- “Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.” —Will Ferrell",
   "main": "index.js",
   "scripts": {
